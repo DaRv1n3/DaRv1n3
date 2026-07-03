@@ -1,134 +1,53 @@
-<div align="center">
-
-# 👋 Hey, I'm DaRv1n3
-
-### 🤖 ML & Data Science Engineer • 🐍 Python Developer • 🧠 AI Creator
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems.;Training+models+%F0%9F%A7%A0;Writing+clean+Python+code.;Always+learning+something+new." />
-
-<img src="https://komarev.com/ghpvc/?username=DaRv1n3&style=for-the-badge&color=0e75b6" />
-
-</div>
 
 ---
+title: AshifMohammad
+date: '2020-08-22'
+spoiler: Code Styled Readme Template
+categories: ["code-styled", "all-profile"]
+githubUsername: 'AshifMohammad'
+---
 
-# 🚀 About Me
 
-```python
-class DaRv1n3:
 
-    def __init__(self):
-        self.role = [
-            "ML Engineer",
-            "Data Scientist",
-            "Python Developer",
-            "AI Creator"
-        ]
+### Hi there 👋
 
-        self.languages = [
-            "Python",
-            "SQL",
-            "Bash"
-        ]
+<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "LLMs",
-            "Computer Vision",
-            "NLP",
-            "MLOps",
-            "Automation"
-        ]
+[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
+[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
 
-        self.current_focus = "Building intelligent AI systems"
 
-    def say_hi(self):
-        return "Thanks for visiting my profile 👋"
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashifZafar = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
+  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
+  techCommunities: {
+                        coorganizer: ["corbiton","apache", "unicef"],
+                        speaker: "English/Urdu",
+                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
+                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
+
+
+                                           
+                      },
+}
 ```
 
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github,linux,vscode,postgres,mysql,sqlite,bash,redis" />
-
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,jupyter" />
-
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaRv1n3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRv1n3&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DaRv1n3&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaRv1n3&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🧠 AI Focus
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- 📊 Data Science
-- ⚙️ MLOps
-- 🚀 AI Automation
-
----
-
-# 🛠 Favorite Tools
-
-| AI | Backend | Data | DevOps |
-|----|---------|------|---------|
-| PyTorch | FastAPI | Pandas | Docker |
-| TensorFlow | Flask | NumPy | Linux |
-| OpenCV | REST API | Polars | Git |
-| Transformers | SQL | PostgreSQL | GitHub Actions |
-
----
-
-# 🎯 Current Mission
-
-> Build AI that doesn't just predict —
-> **it understands, automates and creates.**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
+ <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
+ 
+ ---
+ ⭐️ From [@Ashif](https://github.com/Ashif)
+ 
+ 
